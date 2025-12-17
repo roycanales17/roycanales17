@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate and motivated web developer with nearly **6 years** of experience building dynamic and responsive websites. My expertise lies in both front-end and back-end development, and I specialize in **React**, **TypeScript**, **Node.js**, and cloud technologies. I love turning ideas into functional, visually engaging projects that make a difference.
+I'm a passionate and motivated web developer with nearly **6 years** of experience building dynamic and responsive websites. My expertise lies in both front-end and back-end development, and I specialize in **PHP**, **React**, **Tailwind**, **Node.js**, cloud technologies and any other technologies. I love turning ideas into functional, visually engaging projects that make a difference.
 
 ## 🚀 About Me
 
@@ -14,10 +14,10 @@ I'm a passionate and motivated web developer with nearly **6 years** of experien
 ## 💻 Skills & Technologies
 
 - **Languages:** JavaScript, TypeScript, PHP, Java, Rust
-- **Frontend:** React, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express.js, REST APIs
+- **Frontend:** React, HTML, CSS, Bootstrap, Tailwind
+- **Backend:** Node.js, Express.js, REST APIs, PHP
 - **Databases:** MySQL, MariaDB, Redis
-- **Cloud Platforms:** Firebase, Keycloak, Firebase Hosting
+- **Cloud Platforms:** Firebase, Keycloak, AWS S2
 - **Other:** GIT, Docker, Flutter, Memcache
 
 ## 📺 When I'm Not Coding...
