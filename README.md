@@ -7,7 +7,7 @@ I'm a passionate and motivated web developer with nearly **6 years** of experien
 ## 🚀 About Me
 
 - **Experience:** 6+ years in web development
-- **Specializations:** React, TypeScript, Node.js, Cloud Platforms
+- **Specializations:** PHP, React, TypeScript, Node.js, Cloud Platforms
 - **Current Focus:** Building responsive, user-centric websites and exploring new web technologies
 - **When I'm Not Coding:** Sharing knowledge on my YouTube channel, contributing to open-source projects, and experimenting with new frameworks and tools
 
