@@ -7,26 +7,9 @@ I'm a passionate and motivated web developer with nearly **6 years** of experien
 ## 🚀 About Me
 
 - **Experience:** 6+ years in web development
-- **Specializations:** PHP, React, TypeScript, Node.js, Cloud Platforms
+- **Specializations:** PHP (Laravel), React (NextJs, TypeScript), Mobile (Flutter, Rust), Tailwind, Node.js, Cloud Platforms
 - **Current Focus:** Building responsive, user-centric websites and exploring new web technologies
 - **When I'm Not Coding:** Sharing knowledge on my YouTube channel, contributing to open-source projects, and experimenting with new frameworks and tools
-
-## 💼 Work Experience
-
-### Web Developer | Playasia Subic Bay Freeport Zone (2022 - Present)
-At Playasia, I develop and maintain **responsive, visually appealing websites** using modern technologies. I collaborate with cross-functional teams to enhance website performance, optimize SEO, and improve user experience.
-
-- Technologies: **PHP**, **JavaScript**, **MariaDB**, **MySQL**, **REST APIs**, **GIT**, **Memcache**, **Rust**, **Keycloak**, **Flutter**, **Firebase**
-
-### Web Content Specialist | Alfalink Total Solution Corp. (2021 - 2022)
-I worked solo, managing the company’s online operations across various platforms. I delivered projects that improved user experience and contributed to business growth, utilizing tools such as **ClickFunnels**, **ManyChat**, **Facebook Ads**, and the **Google Maps API**.
-
-- Technologies: **PHP**, **MySQL**, **Bootstrap**, **Redis**, **Memcache**, **Socket.io**, **Express.js**, **jQuery**
-
-### Freelance Developer | StartUp Ventures (2019 - 2021)
-As a freelance developer, I focused on creating desktop applications and transforming client requirements into functional software solutions.
-
-- Technologies: **Java**, **VB6**, **PHP**, **Bootstrap**
 
 ## 💻 Skills & Technologies
 
@@ -45,9 +28,9 @@ As a freelance developer, I focused on creating desktop applications and transfo
 
 ## 📫 Let's Connect!
 
-- **Email:** [roy@example.com](mailto:canales.robroy123@gmail.com)
-- **LinkedIn:** [linkedin.com/in/roydev](https://www.linkedin.com/in/robroy-canales)
-- **YouTube:** [Roy's Dev Channel](https://www.youtube.com/@robroy4046)
+- **Email:** [canales.robroy123@gmail.com](mailto:canales.robroy123@gmail.com)
+- **LinkedIn:** [linkedin.com/in/robroy-canales](https://www.linkedin.com/in/robroy-canales)
+- **YouTube:** [Roy404 Channel](https://www.youtube.com/@robroy4046)
 - **Portfolio:** [Portfolio Site](https://portfolio.roy-hub.com)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting web development projects!
