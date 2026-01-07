@@ -32,5 +32,6 @@ I'm a passionate and motivated web developer with nearly **6 years** of experien
 - **LinkedIn:** [linkedin.com/in/robroy-canales](https://www.linkedin.com/in/robroy-canales)
 - **YouTube:** [Roy404 Channel](https://www.youtube.com/@robroy4046)
 - **Portfolio:** [Portfolio Site](https://portfolio.roy-hub.com)
+- **Stackoverflow:** [Stackoverflow](https://stackoverflow.com/users/10150870/robroy-bustillo-canales)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting web development projects!
